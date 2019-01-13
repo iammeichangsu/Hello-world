@@ -1,2 +1,2 @@
 # Hello-world
-This is my first repository on GitHub
+I am MeiChangsu, This is my first repository on GitHub
